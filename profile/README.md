@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/ShitCoderz/.github/blob/ced3311c558ceb0fe6c25ee55da9a5ec8a159b53/profile/img/ppy.png">
+
 <!--
 
 **Here are some ideas to get you started:**
