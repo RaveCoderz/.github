@@ -1,11 +1,13 @@
-## Hello there 👋
+<div align="center">
+  <h1>RaveCoderz 💿</h1>
+  <p>Team of ambitious software developers
+</div>
 
-ЛУЧШИЕ SHIT-СЕРВИСЫ — [shitcoderz.ru](https://shitcoderz.ru)
+## Projects
 
-## Сервисы
-- [Shitulator](https://calc.shitcoderz.ru)
-- [URL Shortener](https://c.shitcoderz.ru)
+Here are some of the projects we are developing:
+- [Shitulator](https://github.com/RaveCoderz/shitucaltor): Calculator with burping men
+- [URL Shortener](https://github.com/RaveCoderz/url-shortener): URL shortener written in TypeScript using Nx, NestJS, Angular, TailwindCSS, MongoDB and Docker
 
-My name is Dean Herbert, I'm great circle dragger osu developer!
-Also I'm an inspirer of **ShitCoderz** team!
-<img src="https://github.com/ShitCoderz/.github/blob/ced3311c558ceb0fe6c25ee55da9a5ec8a159b53/profile/img/ppy.png">
+## Contact
+If you have any questions or would like to get in touch with us, please send an email to [help@shitcoderz.ru](mailto:help@shitcoderz.ru).
