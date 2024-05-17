@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>RaveCoderz 💿</h1>
+  <h1>ShitCoderz 💿</h1>
   <p>Team of ambitious software developers
 </div>
 
 ## Projects
 
 Here are some of the projects we are developing:
-- [Shitulator](https://github.com/RaveCoderz/shitucaltor) — Calculator with burping men
-- [URL Shortener](https://github.com/RaveCoderz/url-shortener) — URL shortener written in TypeScript using Nx, NestJS, Angular, TailwindCSS, MongoDB and Docker
+- [Shitulator](https://github.com/ShitCoderz/shitucaltor) — Calculator with burping men
+- [URL Shortener](https://github.com/ShitCoderz/url-shortener) — URL shortener written in TypeScript using Nx, NestJS, Angular, TailwindCSS, MongoDB and Docker
 
 ### In development
 - Rave Community Store — Official merchandise store
