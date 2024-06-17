@@ -10,6 +10,7 @@ Here are some of the projects we are developing:
 - [URL Shortener](https://github.com/ShitCoderz/url-shortener) — URL shortener written in TypeScript using Nx, NestJS, Angular, TailwindCSS, MongoDB and Docker
 
 ### In development
+- ShitCoin
 - Rave Community Store — Official merchandise store
 
 ## Contact
